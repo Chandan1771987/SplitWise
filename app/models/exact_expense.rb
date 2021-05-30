@@ -1,0 +1,3 @@
+class ExactExpense < Expense
+
+end

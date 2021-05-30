@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  type: 
+  ower_id: 1
+  owee_id: 1
+  amount: 1
+
+two:
+  type: 
+  ower_id: 1
+  owee_id: 1
+  amount: 1
